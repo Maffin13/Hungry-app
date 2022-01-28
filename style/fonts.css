@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'lato-bold';
+    src: url('../fonts/Lato/Lato-Bold.ttf');
+}
+@font-face {
+    font-family: 'lato-medium';
+    src: url('../fonts/Lato/Lato-Medium.ttf');
+}
+@font-face {
+    font-family: 'lato-regular';
+    src: url('../fonts/Lato/Lato-Regular.ttf');
+}
+@font-face {
+    font-family: 'lato-semibold';
+    src: url('../fonts/Lato/Lato-Semibold.ttf');
+}
+@font-face {
+    font-family: 'worksans-bold';
+    src: url('../fonts/Work-sans/WorkSans-Bold.ttf');
+}
+@font-face {
+    font-family: 'worksans-medium';
+    src: url('../fonts/Work-sans/WorkSans-Medium.ttf');
+}
+
+
+.fad {
+    font-family: 'fontAwesome-duatone';
+    font-style: normal;
+    font-weight: 900;
+}
+
+.fab {
+    font-family: 'fontAwesome-brands';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.fa, 
+.fas,
+.far,
+.fal {
+    font-family: 'fontAwesome';
+    font-style: normal;
+}
